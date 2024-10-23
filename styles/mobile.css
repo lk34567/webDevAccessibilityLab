@@ -15,14 +15,16 @@ footer {
 }
 
 #logo {
+ 
   text-align: center;
 }
 
 header {
-  background-color: #263248;
+  background-color: #1e1e5a;
 }
 
 header h1 {
+  
   margin: 0;
 }
 
